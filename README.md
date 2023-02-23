@@ -1,5 +1,7 @@
 # test-automation-assessment
 
+Structure: 
+
 software-testing-assesment
     ├── designAndReasoning
     |   ├── files
