@@ -1,5 +1,20 @@
 # test-automation-assessment
 
+software-testing-assesment
+    ├── designAndReasoning
+    |   ├── files
+    ├── codeComprehension
+    |   ├── files
+    ├── sqlComprehension
+    |   ├── files
+    ├── automationSolution
+    │   ├── src
+    │   │   ├── main
+    │   │   └── test
+    ├── README.md
+    
+    
+=====================================================================
 OPTION 2: automating the checkout functionality of the SauceDemo site. 
 
 ## Concepts Included
