@@ -34,3 +34,4 @@ To run all the tests, you can run the TestNG file
 ## Reporting
 
 Reports are written `/Reports folder` directories after a successful run.
+Can view the screenshot after the test fail
