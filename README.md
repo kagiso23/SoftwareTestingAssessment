@@ -1,10 +1,36 @@
-# Software Testing Assessment
-selenium-framework
-project of selenium using ChromeWebDriver, TestNG, maven project
-Prerequisites
-Have java installed
-Have maven installed
-Make sure you update the ChromeDriver PATH 
-Execute automation tests
-Update the Reports PATH 
+# test-automation-assessment
 
+OPTION 2: automating the checkout functionality of the SauceDemo site. 
+
+## Concepts Included
+
+* Hybrid framework 
+* Page Object Model 
+* Json file used to store the login details 
+* Utilities such as Json, text auto generatot, etc. 
+
+
+## Tools
+
+* Maven
+* EventSparkReporter 
+* TestNG
+* Selenium Webdriver
+
+
+## Requirements
+
+In order to utilise this project you need to have the following installed locally:
+
+* Maven 
+* Chrome and Chromedriver
+* Java 
+
+## Usage
+
+To run all the tests, you can run the TestNG file 
+
+
+## Reporting
+
+Reports are written `/Reports folder` directories after a successful run.
