@@ -43,7 +43,7 @@ In order to utilise this project you need to have the following installed locall
 
 ## Usage
 
-To run all the tests, you can run the TestNG file 
+To run the test, you can run the TestNG file 
 
 
 ## Reporting
