@@ -56,7 +56,7 @@ public class checkoutPage extends TestBase {
     public WebElement txt_thankYou;
     @FindBy(id = Constants.backToHomeButtonId)
     public WebElement btn_backToHome;
-    public static final String loginDetailsJsonFilePath ="C:\\SoftwareTestingAssessment\\software-testing-assesment\\src\\test\\resources\\LoginDetails.json";
+    public static final String loginDetailsJsonFilePath ="C:\\SoftwareTestingAssessment\\resources\\LoginDetails.json";
 
     public void getLoginDetails() throws Exception {
         JsonObject login = JsonUtil.readJSON("LoginDetails",loginDetailsJsonFilePath);

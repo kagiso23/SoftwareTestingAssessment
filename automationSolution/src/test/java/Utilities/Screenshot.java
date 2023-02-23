@@ -15,7 +15,7 @@ public class Screenshot {
         String dateName = new SimpleDateFormat("yyyy-MM-dd-hhmmss").format(new Date());
         TakesScreenshot ts = (TakesScreenshot) driver;
         File source = ts.getScreenshotAs(OutputType.FILE);
-        String destination = "C:\\SoftwareTestingAssessment\\screenshots" + ScreenShotName + " " + dateName + ".png";
+        String destination = "C:\\SoftwareTestingAssessment\\screenshots\\" + ScreenShotName + " " + dateName + ".png";
         File finalDestination = new File(destination);
         FileUtils.copyFile(source, finalDestination);
     }

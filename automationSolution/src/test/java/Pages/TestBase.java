@@ -24,7 +24,7 @@ public class TestBase {
     @BeforeClass
     public void before() throws Exception{
 
-        System.setProperty("webdriver.chrome.driver","C:\\SoftwareTestingAssessment\\software-testing-assesment\\src\\test\\resources\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\SoftwareTestingAssessment\\resources\\chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         extent = new ExtentReports();

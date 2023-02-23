@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InspiredTestingBasicFramework/AddAndViewProductInTheCart.iml" filepath="$PROJECT_DIR$/InspiredTestingBasicFramework/AddAndViewProductInTheCart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/InspiredAssessmentAutomation.iml" filepath="$PROJECT_DIR$/.idea/InspiredAssessmentAutomation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/software-testing-assesment/checkProducts.iml" filepath="$PROJECT_DIR$/software-testing-assesment/checkProducts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AssessmentAutomation.iml" filepath="$PROJECT_DIR$/.idea/AssessmentAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InspiredTestingBasicFramework/Checkout.iml" filepath="$PROJECT_DIR$/InspiredTestingBasicFramework/Checkout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automationSolution/checkout.iml" filepath="$PROJECT_DIR$/automationSolution/checkout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/software-testing-assesment/checkoutProducts.iml" filepath="$PROJECT_DIR$/software-testing-assesment/checkoutProducts.iml" />
     </modules>
   </component>
 </project>
