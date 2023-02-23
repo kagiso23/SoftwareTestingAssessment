@@ -18,7 +18,6 @@ Technical Architect
 > Who is going to give admins rights to the system?
 
 2. In order to delight the user with these features, how would you want it to work?
-
 > Ensure that the design is appealing
 > Ensure that is user-friendly and faster
 > Build the product to meet user's expectation ans satisfy their needs
