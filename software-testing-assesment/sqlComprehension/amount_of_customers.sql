@@ -1,0 +1,1 @@
+SELECT count(*) as AmountOfCustomers FROM public.customers;

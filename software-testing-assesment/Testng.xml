@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Payments" parallel="tests" configfailurepolicy="continue">
+    <parameter name="environment" value="Prod"/>
+    <test name="End to End Testing For Ordering Products">
+        <classes>
+            <class name="Tests.SauceDemo.AddProductsToTheCart"/>
+        </classes>
+    </test>
+</suite>

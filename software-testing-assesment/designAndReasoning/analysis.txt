@@ -1,0 +1,35 @@
+1. Given the above high level requirements, what are some of the questions you would ask each of following team members to understand this feature better?
+
+Product Owner
+> What will happen if the licences expire / run out?
+> What will happen if the licences expire / run out?
+> Is this going to be a Web or desktop based application?
+> What are the type of licences?
+> Which functionality we need to prioritise first for the sprint?
+
+UX designer
+> Do we have ux design doc for this or developer can make their own design?
+> Can the administrator have permission to customise the look and feel of the system
+> Can we delete users in bulk?
+
+Technical Architect
+> Are going to need to migrate any existing users, if yes, how are we going to migrate them?
+> Do we need to create a new database of this?
+> Who is going to give admins rights to the system?
+
+2. In order to delight the user with these features, how would you want it to work?
+
+> Ensure that the design is appealing
+> Ensure that is user-friendly and faster
+> Build the product to meet user's expectation ans satisfy their needs
+> Involve the users and ensure that their feedback are considered
+> Write a meaningful/concise context / instruction
+> Avoiding obvious buggy
+
+Based on your response to the previous question what would you automate in the testing of this feature?
+
+. System functionality, such as Delete, Add and remove user
+. Database testing to validate the data accuracy
+. Performance testing
+. API testing to ensure that the correct data is being populated
+. Ux testing to ensure the design is as expected and wording are correct

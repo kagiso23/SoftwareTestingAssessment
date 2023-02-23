@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InspiredTestingBasicFramework/AddAndViewProductInTheCart.iml" filepath="$PROJECT_DIR$/InspiredTestingBasicFramework/AddAndViewProductInTheCart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/software-testing-assesment/AddProductsToYourShoppingCart.iml" filepath="$PROJECT_DIR$/software-testing-assesment/AddProductsToYourShoppingCart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/InspiredAssessmentAutomation.iml" filepath="$PROJECT_DIR$/.idea/InspiredAssessmentAutomation.iml" />
+    </modules>
+  </component>
+</project>
