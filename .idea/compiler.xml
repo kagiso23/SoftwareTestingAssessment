@@ -7,13 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="checkProducts" />
         <module name="AddAndViewProductInTheCart" />
-        <module name="AddProductsToYourShoppingCart" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AddAndViewProductInTheCart" target="1.8" />
-      <module name="AddProductsToYourShoppingCart" target="1.8" />
+      <module name="checkProducts" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

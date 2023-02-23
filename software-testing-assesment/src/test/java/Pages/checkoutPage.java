@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 import storage.Constants;
 
-public class AddProductsPage extends TestBase {
+public class checkoutPage extends TestBase {
 
 
     @FindBy(id = Constants.loginButtonById)
@@ -69,7 +69,7 @@ public class AddProductsPage extends TestBase {
         btn_Login.click();
     }
 
-    public AddProductsPage(WebDriver driver) throws Exception {
+    public checkoutPage(WebDriver driver) throws Exception {
 
         PageFactory.initElements(new AjaxElementLocatorFactory(driver,60),this);
     }

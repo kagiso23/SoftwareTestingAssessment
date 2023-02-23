@@ -3,7 +3,7 @@
     <parameter name="environment" value="Prod"/>
     <test name="End to End Testing For Ordering Products">
         <classes>
-            <class name="Tests.SauceDemo.AddProductsToTheCart"/>
+            <class name="Tests.SauceDemo.checkout"/>
         </classes>
     </test>
 </suite>
