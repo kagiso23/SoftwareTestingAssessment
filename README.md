@@ -45,7 +45,7 @@ In order to utilise this project you need to have the following installed locall
 
 ## Usage
 
-To run the test on Console use `mvn test` or run the `TestNG.xml` file
+To run the test on terminal use `mvn test` or run the `TestNG.xml` file
 
 
 ## Reporting
