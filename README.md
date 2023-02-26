@@ -45,10 +45,10 @@ In order to utilise this project you need to have the following installed locall
 
 ## Usage
 
-To run the test, you can run the TestNG file 
+To run the test on Console use `mvn test` or run the `TestNG.xml` file
 
 
 ## Reporting
 
-Reports are written `/Reports folder` directories after a successful run.
+Reports are written `/Reports folder` or `/tagert/sunfire-reports` directories after a successful run.
 Can view the screenshot after the test fail
