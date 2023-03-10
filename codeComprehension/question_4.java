@@ -8,9 +8,6 @@ public class Main {
         long min = 0;
 
         for(int i = 0; i < arr.length; i++) {
-            if(arr[i]<1 || arr[i]>1000) {
-                continue;
-            }
             if(i == 0){
                 min+= arr[i];
                 continue;
