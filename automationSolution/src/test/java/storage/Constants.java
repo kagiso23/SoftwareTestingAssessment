@@ -22,7 +22,7 @@ public class Constants {
     public static final String totalTextXpath = "//div[text()='43.18']";
     public static final String finishButtonId = "finish";
     public static final String checkoutCompleteTextXpath = "//span[text()='Checkout: Complete!']";
-    public static final String thankYouTextXpath = "//h2[text()='THANK YOU FOR YOUR ORDER']";
+    public static final String thankYouTextXpath = "//h2[text()='Thank you for your order!']";
     public static final String backToHomeButtonId = "back-to-products";
 
 }
